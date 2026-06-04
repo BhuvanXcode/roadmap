@@ -25,5 +25,5 @@ A lightweight, bash-based utility to monitor real-time Linux server performance,
    ./server-stats.sh
 
 Project URL:
-https://github.com/BhuvanXcode/roadmap
+https://github.com/BhuvanXcode/roadmap.git
 
