@@ -24,6 +24,6 @@ A lightweight, bash-based utility to monitor real-time Linux server performance,
    Run the script directly from your terminal:
    ./server-stats.sh
 
-Project URL:
-https://github.com/BhuvanXcode/roadmap/blob/main/server-stats.sh
+Project URL:https://roadmap.sh/projects/server-stats
+
 
